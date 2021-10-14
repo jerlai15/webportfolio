@@ -255,6 +255,7 @@ img {
 .list {
   display: flex;
   list-style: none;
+  padding-left: 10px;
 }
 
 .exp-list {
@@ -275,5 +276,5 @@ img {
 
 .phone {
   font-size: 12px;
-  align-items: center;
+  padding-left: 10px;
 }
