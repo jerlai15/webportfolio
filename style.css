@@ -21,7 +21,7 @@ h1 {
 }
 
 .jumbotron {
-  background-image: url(/images/background.png);
+  background-image: url('/images/background.png');
   height: 80vh;
   background-size: cover;
   background-position: center;
